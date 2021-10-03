@@ -1,0 +1,11 @@
+name: deathswap
+version: 1.0
+api-version: 1.16 
+main: me.deathSwap.main.Main
+description: yeeteroo
+commands:
+  deathSwapTwo:
+    description: 2 player game
+    
+  deathSwapThree:
+   description: 3 player game
